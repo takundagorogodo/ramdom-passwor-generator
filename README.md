@@ -28,15 +28,6 @@ It also allows users to copy the generated password instantly to the clipboard w
 - JavaScript (Vanilla JS)
 - Font Awesome Icons
 
-## 📂 Project Structure
-password-generator/
-│
-├── index.html
-├── style.css
-├── script.js
-├── screenshot.png
-└── README.md
-
 ## ⚙️ How It Works
 1. Click the **Generate** button.
 2. JavaScript randomly selects characters from a predefined character set.
